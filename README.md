@@ -3,13 +3,12 @@
 
 This project analyzes Superstore sales data using Power BI to understand business performance, identify sales trends, and evaluate profitability. The dashboard provides insights into sales, profit, customers, products, and regional performance to support data-driven business decisions. 
 
-SUPERSTORE-ANALYSIS (1)
+
 
 🎯 Problem Statement
 
 The objective of this project is to analyze Superstore sales data to identify profitability gaps, sales fluctuations, and operational inefficiencies. The analysis focuses on improving business performance and identifying opportunities for growth. 
 
-SUPERSTORE-ANALYSIS (1)
 
 📊 Dataset Information
 
@@ -27,7 +26,7 @@ Shipping and order details
 
 These variables help analyze sales trends and profitability across the business. 
 
-SUPERSTORE-ANALYSIS (1)
+
 
 🛠 Tools & Technologies
 
@@ -49,7 +48,7 @@ Total Customers: 793
 
 These KPIs help measure the overall business performance. 
 
-SUPERSTORE-ANALYSIS (1)
+
 
 🔎 Analysis Performed
 
@@ -73,7 +72,6 @@ Some sub-categories such as Tables and Bookcases show negative profitability.
 
 Consumer segment contributes the largest share of total sales. 
 
-SUPERSTORE-ANALYSIS (1)
 
 💡 Business Recommendations
 
@@ -85,7 +83,6 @@ Improve sales strategies in underperforming regions.
 
 Optimize shipping strategies to reduce operational costs. 
 
-SUPERSTORE-ANALYSIS (1)
 
 👤 Author
 
